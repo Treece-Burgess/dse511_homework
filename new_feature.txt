@@ -1,0 +1,2 @@
+This is a text file that has been created for DSE homework assignment 2. Specifically it is for problem 3 in
+the GitHub section. 
